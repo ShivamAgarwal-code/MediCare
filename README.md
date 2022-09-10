@@ -32,7 +32,7 @@
 ## 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢
 
 ```
-https://github.com/Mohitraj27/Medicare
+https://github.com/ShivamAgarwal-code/MediCare.git
 ```
 ## Link to our website
 ```
